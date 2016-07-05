@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Accountable Bookworm Book Keeping</title>
-    <description>line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
+    <description>We can put some stuff here, like a description or mission statement type thing
 </description>
-    <link>http://www.accountablebookworm.com.au/</link>
-    <atom:link href="http://www.accountablebookworm.com.au/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 05 Jul 2016 12:20:16 +0000</pubDate>
-    <lastBuildDate>Tue, 05 Jul 2016 12:20:16 +0000</lastBuildDate>
+    <link>http://www.accountablebookworm.com.auhttp://www.accountablebookworm.com.au/</link>
+    <atom:link href="http://www.accountablebookworm.com.auhttp://www.accountablebookworm.com.au/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Tue, 05 Jul 2016 12:43:23 +0000</pubDate>
+    <lastBuildDate>Tue, 05 Jul 2016 12:43:23 +0000</lastBuildDate>
     <generator>Jekyll v3.1.6</generator>
     
       <item>
@@ -28,8 +28,8 @@
 
 </description>
         <pubDate>Tue, 05 Jul 2016 03:34:29 +0000</pubDate>
-        <link>http://www.accountablebookworm.com.au/jekyll/update/2016/07/05/welcome-to-jekyll.html</link>
-        <guid isPermaLink="true">http://www.accountablebookworm.com.au/jekyll/update/2016/07/05/welcome-to-jekyll.html</guid>
+        <link>http://www.accountablebookworm.com.auhttp://www.accountablebookworm.com.au/jekyll/update/2016/07/05/welcome-to-jekyll.html</link>
+        <guid isPermaLink="true">http://www.accountablebookworm.com.auhttp://www.accountablebookworm.com.au/jekyll/update/2016/07/05/welcome-to-jekyll.html</guid>
         
         
         <category>jekyll</category>
