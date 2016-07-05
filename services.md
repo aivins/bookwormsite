@@ -3,6 +3,8 @@ title: Services
 date: '2016-07-05 04:51:00'
 layout: page
 ---
+Services can include but are not limited to:
+
 Business Activity Statements
 Instalment Activity Statement
 Debtor invoicing and collection
@@ -18,3 +20,4 @@ Advice on renumations and national employment standards
 Fringe Benefit Tax
 Depreciation
 Inventory control
+
