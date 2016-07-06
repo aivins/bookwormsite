@@ -7,5 +7,3 @@ Accountable Bookworm Bookkeeping is a small business run by owner/operator Colet
 
 Colette Knox is a qualified bookkeeping with extensive knowledge and experience.
 
-![]({{ site.baseurl }}/forestryio/images/image-1.jpeg)
-
