@@ -1,7 +1,8 @@
 ---
 title: How it works
-date: '2016-07-05 04:16:00'
+date: '2016-07-05 00:00:00'
 layout: page
+draft: true
 ---
 I am looking for work as a freelance bookkeeper. I like to use the word freelance as it best describes the relationship I have with my clients. No lock in contract, no minimum hours, I just do the work they request of me and charge only for the hours spent doing so. 
 I can work onsite at your business and am also set-up at home as well. 
