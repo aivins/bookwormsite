@@ -1,7 +1,8 @@
 ---
 title: Pricing
-date: '2016-07-05 06:41:00'
+date: '2016-07-05 00:00:00'
 layout: page
+draft: true
 ---
 $28 per hour, charged in 15 minute increments.
 
