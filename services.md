@@ -2,8 +2,9 @@
 title: Services
 date: '2016-07-05 00:00:00'
 layout: page
-draft: true
 ---
+![]({{ site.baseurl }}/forestryio/images/image-3.jpeg)
+
 Services can include but are not limited to:
 
 * Business Activity Statements
@@ -22,5 +23,5 @@ Services can include but are not limited to:
 * Depreciation
 * Inventory control
 * New business accounting software set-up
-* Minimize oreign exchange exposure
+* Minimize foreign exchange exposure
 
