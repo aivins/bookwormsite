@@ -3,6 +3,8 @@ title: Home
 date: '2016-07-08 00:38:00'
 layout: page
 ---
+![]({{ site.baseurl }}/forestryio/images/image-7.jpeg)
+
 Weekly, fortnightly, monthly or one-off bookkeeping services.
 
 Only pay for the required time it takes to complete the services you require.
