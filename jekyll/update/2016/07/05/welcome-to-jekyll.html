@@ -9,19 +9,125 @@
   <title>Welcome to Jekyll!</title>
   <meta name="description" content="You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different wa...">
 
-  <link rel="stylesheet" href="http://www.accountablebookworm.com.au/css/main.css">
-  <link rel="canonical" href="http://www.accountablebookworm.com.auhttp://www.accountablebookworm.com.au/jekyll/update/2016/07/05/welcome-to-jekyll.html">
-  <link rel="alternate" type="application/rss+xml" title="Accountable Bookworm Bookkeeping" href="http://www.accountablebookworm.com.auhttp://www.accountablebookworm.com.au/feed.xml">
+  <link rel="stylesheet" href="/css/main.css">
+  <link rel="canonical" href="http://www.accountablebookworm.com.au/jekyll/update/2016/07/05/welcome-to-jekyll.html">
+  <link rel="alternate" type="application/rss+xml" title="Accountable Bookworm Bookkeeping" href="http://www.accountablebookworm.com.au/feed.xml">
+
+  <!-- Latest compiled and minified CSS -->
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+
+  <!-- Optional theme -->
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap-theme.min.css" integrity="sha384-rHyoN1iRsVXV4nD0JutlnGaslCJuC7uwjduW9SVrLvRYooPp2bWYgmgJQIXwl/Sp" crossorigin="anonymous">
+
+  <!-- Latest compiled and minified JavaScript -->
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+
+  <style>
+    .navbar-default .navbar-nav>.active>a, .navbar-default .navbar-nav>.open>a {
+        background-image: -webkit-linear-gradient(top,#77ab3a 0,#89bd23 100%);
+        background-image: -o-linear-gradient(top,#77ab3a 0,#89bd23 100%);
+        background-image: -webkit-gradient(linear,left top,left bottom,from(#77ab3a),to(#89bd23));
+        background-image: linear-gradient(to bottom,#77ab3a 0,#89bd23 100%);
+        filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ff77ab3a', endColorstr='#ff89bd23', GradientType=0);
+        background-repeat: repeat-x;
+        -webkit-box-shadow: inset 0 3px 9px rgba(0,0,0,.075);
+        box-shadow: inset 0 3px 9px rgba(0,0,0,.075);
+    }
+  </style>
 </head>
 
 
   <body>
 
-    <header class="site-header">
+    
+<nav class="navbar navbar-default" style="height: 80px">
+  <div class="container-fluid">
+    <!-- Brand and toggle get grouped for better mobile display -->
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+        <span class="sr-only">Toggle navigation</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="#" style="padding-top: 10px">
+        <img src="/images/wormlogosmall.png" style="height: 60px; display: inline-block">
+        <span style="margin-left: 10px">Accountable Bookworm Bookkeeping</span>
+      </a>
+    </div>
+
+    <!-- Collect the nav links, forms, and other content for toggling -->
+    <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+      <ul class="nav navbar-nav navbar-right" style="height: 80px">
+        
+          
+            
+              <li style="height: 80px">
+            
+              <a href="/about/" style="height: 80px; padding-top: 30px">About</a>
+            
+        
+            </li>
+          
+        
+          
+        
+          
+            
+              <li style="height: 80px">
+            
+              <a href="/home.html" style="height: 80px; padding-top: 30px">Home</a>
+            
+        
+            </li>
+          
+        
+          
+            
+              <li style="height: 80px">
+            
+              <a href="/" style="height: 80px; padding-top: 30px">Financial releases</a>
+            
+        
+            </li>
+          
+        
+          
+        
+          
+            
+              <li style="height: 80px">
+            
+              <a href="/pricing.html" style="height: 80px; padding-top: 30px">Pricing</a>
+            
+        
+            </li>
+          
+        
+          
+            
+              <li style="height: 80px">
+            
+              <a href="/services.html" style="height: 80px; padding-top: 30px">Services</a>
+            
+        
+            </li>
+          
+        
+      </ul>
+
+    </div><!-- /.navbar-collapse -->
+  </div><!-- /.container-fluid -->
+</nav>
+
+
+<!-- <header class="site-header">
 
   <div class="wrapper">
 
-    <a class="site-title" href="http://www.accountablebookworm.com.au/">Accountable Bookworm Bookkeeping</a>
+    <img src="/images/wormlogosmall.png">
+
+    <a class="site-title" href="/">Accountable Bookworm Bookkeeping</a>
 
     <nav class="site-nav">
       <a href="#" class="menu-icon">
@@ -35,27 +141,27 @@
       <div class="trigger">
         
           
-          <a class="page-link" href="http://www.accountablebookworm.com.au/about/">About</a>
+          <a class="page-link" href="/about/">About</a>
           
         
           
         
           
-          <a class="page-link" href="http://www.accountablebookworm.com.au/home.html">Home</a>
+          <a class="page-link" href="/home.html">Home</a>
           
         
           
-          <a class="page-link" href="http://www.accountablebookworm.com.au/">Financial releases</a>
+          <a class="page-link" href="/">Financial releases</a>
           
         
           
         
           
-          <a class="page-link" href="http://www.accountablebookworm.com.au/pricing.html">Pricing</a>
+          <a class="page-link" href="/pricing.html">Pricing</a>
           
         
           
-          <a class="page-link" href="http://www.accountablebookworm.com.au/services.html">Services</a>
+          <a class="page-link" href="/services.html">Services</a>
           
         
       </div>
@@ -63,7 +169,7 @@
 
   </div>
 
-</header>
+</header> -->
 
 
     <div class="page-content">
