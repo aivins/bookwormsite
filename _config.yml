@@ -3,6 +3,5 @@ email: info@accountablebookworm.com.au
 description: >
   We can put some stuff here, like a description or mission
   statement type thing
-baseurl: "http://www.accountablebookworm.com.au"
 url: "http://www.accountablebookworm.com.au"
 markdown: kramdown
