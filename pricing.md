@@ -4,8 +4,6 @@ date: '2016-07-05 00:00:00'
 layout: page
 order: 40
 ---
-![]({{ site.baseurl }}/forestryio/images/image-4.jpeg)
-
 $28 per hour, charged in 15 minute increments.
 
 Easy.
