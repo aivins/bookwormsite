@@ -2,6 +2,7 @@
 title: Home
 date: '2016-07-08 00:38:00'
 layout: page
+order: 10
 ---
 ![]({{ site.baseurl }}/forestryio/images/image-7.jpeg)
 

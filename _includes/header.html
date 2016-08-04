@@ -1,6 +1,6 @@
 
 <nav class="navbar navbar-fixed-top" style="height: 82px; border-bottom: 2px solid #89bd23; background-color: white">
-  <div class="container-fluid">
+  <div class="container-fluid" style="padding-left: 60px; padding-right: 60px">
     <!-- Brand and toggle get grouped for better mobile display -->
     <div class="navbar-header">
       <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
@@ -18,7 +18,8 @@
     <!-- Collect the nav links, forms, and other content for toggling -->
     <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
       <ul class="nav navbar-nav navbar-right" style="height: 80px">
-        {% for my_page in site.pages %}
+        {% assign pages = site.pages | sort:"order"  %}
+        {% for my_page in pages %}
           {% if my_page.title %}
             {% if my_page.url == page.url %}
               <li class="active" style="height: 80px; color: white;">

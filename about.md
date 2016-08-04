@@ -2,6 +2,7 @@
 title: About
 layout: page
 permalink: "/about/"
+order: 15
 ---
 ![]({{ site.baseurl }}/forestryio/images/image-2.jpeg)
 
