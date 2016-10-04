@@ -25,6 +25,4 @@ Services can include but are not limited to:
 * Inventory control
 * New business accounting software set-up
 * Minimize foreign exchange exposure
-* Sole trader tax returns
-* Individual tax returns
 
