@@ -6,7 +6,7 @@ order: 15
 ---
 ![]({{ site.baseurl }}/forestryio/images/image-2.jpeg)
 
-Accountable Bookworm Bookkeeping is a small business run by sole trade Colette Knox.
+Accountable Bookworm Bookkeeping is a small business run by sole trade Colette Knox
 
 Colette Knox is a qualified bookkeeper with extensive knowledge and experience. She completed her Diploma of Accounting at the Central Institute of Technology and has been studying a Business Degree (Accounting Major) part-time since 2013. 
 
