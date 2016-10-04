@@ -1,6 +1,6 @@
 ---
 title: Home
-date: '2016-07-08 00:38:00'
+date: '2016-07-08 00:00:00'
 layout: disabled
 order: 10
 ---
